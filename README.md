@@ -45,8 +45,7 @@ The injection of ConectionManager is done because is required on the description
 is only to show that I have the knowledge of injection....
 The texts of the app (texts and keys) I didn’t' add it to strings...I have to...but no time!Also the code is not commented 
 at all ..
-I spend more or less one day doing this project, and I haven't work with AndroidStudio years ago... so I think is pretty good
-the project, for sure I can do a lot of improvements ....but only one day ... not bad ;)
+I spend more or less one day doing this project.
 
 
 In this application I used different libraries
